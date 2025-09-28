@@ -69,3 +69,11 @@
 #     print(text[i])
 #     i = i + 1
 
+
+# list = [3,4,5,6,7,1,2,9,8,11]
+
+# user = int(input("enter your num :"))
+# if user > 0 and user < 10:
+#     print(list[user])
+# elif user < 0 or user > 10:
+#     print("you entered negative or more than 10  number")
