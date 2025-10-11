@@ -3,7 +3,7 @@
 # for i in range(50):
 #     print("hello world")
 
-#     i = 3
+# i = 3
 # while i < 17:
 #     print(i)
 #     i = i + 1
